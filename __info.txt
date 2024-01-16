@@ -1,7 +1,2 @@
-https://openui5.hana.ondemand.com/topic/4da72985139b4b83b5f1c1e0c0d2ed5a
+https://openui5.hana.ondemand.com/topic/2366345a94f64ec1a80f9d9ce50a59ef
 
-https://openui5.hana.ondemand.com/topic/354f98ed2b514ba9960556333428d35e
-
-https://openui5.hana.ondemand.com/topic/c98d57347ba444c6945f596584d2db45
-
-https://openui5.hana.ondemand.com/topic/c4b2a32bb72f483faa173e890e48d812
