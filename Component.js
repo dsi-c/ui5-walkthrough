@@ -16,7 +16,7 @@ sap.ui.define(
         // set data model
         const oData = {
           recipient: {
-            name: "World",
+            name: "World 123",
           },
         };
         const oModel = new JSONModel(oData);
